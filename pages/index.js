@@ -10,8 +10,7 @@ const HomePage = () => {
                 </li>
             </ul>
         </div>
-
-    )
-}
+    );
+};
 
 export default HomePage;
